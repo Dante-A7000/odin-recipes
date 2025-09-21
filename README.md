@@ -1,2 +1,2 @@
 # odin-recipes
-yo
+yo a
